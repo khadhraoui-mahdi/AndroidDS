@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563738914572",
+    "project_id": "dstekup2",
+    "storage_bucket": "dstekup2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563738914572:android:e4a9340bba557923002329",
+        "android_client_info": {
+          "package_name": "com.myapp.dstekup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563738914572-o3itn95p30t3kl6htqghstqq474a0fhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvCzZwe9DgVFtCZuczIN_D8D59L04jOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563738914572-o3itn95p30t3kl6htqghstqq474a0fhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

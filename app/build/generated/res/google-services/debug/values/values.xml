@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">563738914572-o3itn95p30t3kl6htqghstqq474a0fhc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">563738914572</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEvCzZwe9DgVFtCZuczIN_D8D59L04jOI</string>
+    <string name="google_app_id" translatable="false">1:563738914572:android:e4a9340bba557923002329</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEvCzZwe9DgVFtCZuczIN_D8D59L04jOI</string>
+    <string name="google_storage_bucket" translatable="false">dstekup2.appspot.com</string>
+    <string name="project_id" translatable="false">dstekup2</string>
+</resources>
